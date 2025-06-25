@@ -10,4 +10,6 @@ cautioned against complete reliance upon the contents hereof without confirming 
 accuracy and currency of the information contained herein. The Crown in Right of 
 Ontario, as represented by the Minister of Health and Long-Term Care, assumes no 
 responsibility for any person’s use of the material herein or any costs or damages 
-associated with such use
+associated with such use.
+
+Also found on https://www.ontario.ca/page/ohip-publications-medical-claims-and-health-card-validation#section-1
